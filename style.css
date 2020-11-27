@@ -64,13 +64,14 @@ font-size: 70px
 h2 {
 	color: #712177;
 	font-size: 40px;
-	style:underlined;	
+	style:underline;	
 }
 
 p {
 	align: center;
 	font-size: 25px;
-	style: italics;
+	style: italic;
+	margin-top: 20px;
 }
 
 
