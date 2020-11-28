@@ -21,8 +21,8 @@
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
-	margin: 5px;
-	padding: 5px;
+	position: absolute;
+	
 }
 
 .nav Home {
