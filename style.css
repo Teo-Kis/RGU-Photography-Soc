@@ -19,7 +19,7 @@
 .nav ul {
 	list-style-type: none;
 	text-decoration: none;
-	display: inline;
+	display: block;
 		
 }
 
@@ -28,7 +28,7 @@
 	top: 40px;
 	right: 10px;
 	text-decoration: none;
-	display: inline-block;
+	display: block;
 	margin: 20px;
 	padding: 10px;
 	float: right;
