@@ -107,7 +107,7 @@ a:active {
 }
 
 .fb-post, twitter-timeline, intagram-media {
-	position: relative;
+	object-position: 50% 50%;
 		
 }
 
