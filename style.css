@@ -18,7 +18,7 @@ nav {
 	font-size: 30px;
 }
 
-"RGU-logo" {
+img {
 	position: left:;
 	top: 20px;
 	left: 5px;
@@ -74,6 +74,9 @@ p {
 	margin-top: 20px;
 }
 
+fb-post {
+	align:center:
+}
 
 footer {
     	position:relative;
@@ -83,7 +86,8 @@ footer {
 	height: 20px;
     	background-color: #712177;
 	text-align: center;
-	vedrtical-align: center;
+	text-decoration: italic;
+	vertical-align: center;
 	color: white;
 	font-size: 10px;
 }
