@@ -21,15 +21,12 @@
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
-	position: absolute;
-	top: 40px;
-	right: 10px;
+	
 }
 
 .nav Home {
 	text-decoration: none;
 	display: inline-block;
-	overflow: hidden;
 	margin: 20px;
 	padding: 10px;
 	float: right;
@@ -43,7 +40,6 @@
 .nav Socials {
 	text-decoration: none;
 	display: inline-block;
-	overflow: hidden;
 	margin: 20px;
 	padding: 10px;
 	float: right;
