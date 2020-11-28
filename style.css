@@ -92,7 +92,7 @@ a:active {
 }
 
 .fb-like, twitter-follow-button {
-	display:inline;
+	display: inline;
 	float: left;
 	margin: 5px;
 	padding: 5px;
