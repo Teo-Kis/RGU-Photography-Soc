@@ -107,8 +107,8 @@ a:active {
 }
 
 .fb-post, twitter-timeline, intagram-media {
-	object-position: 50% 50%;
-		
+	margin:auto;
+	width: 50%;	
 }
 
 .footer {
