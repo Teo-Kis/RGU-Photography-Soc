@@ -24,31 +24,13 @@
 	
 }
 
-.nav Home {
-	text-decoration: none;
-	display: inline-block;
-	margin: 20px;
-	padding: 10px;
-	float: right;
-	text-align: center;
-	vertical-align: middle;
-	font-weight:bold;
-	color: white;
-	font-size: 30px;
+.nav li {
+	position: relative;
+	top: 40px;
+	right: 10px;
 }
 
-.nav Socials {
-	text-decoration: none;
-	display: inline-block;
-	margin: 20px;
-	padding: 10px;
-	float: right;
-	text-align: center;
-	vertical-align: middle;
-	font-weight:bold;
-	color: white;
-	font-size: 30px;
-}
+
 
 a:link {
 	vertical-align:bottom;
