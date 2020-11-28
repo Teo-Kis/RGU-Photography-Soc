@@ -1,4 +1,4 @@
-header {
+.header {
 	position:relative;
 	top: 0;
 	height: 100px;
@@ -16,7 +16,7 @@ header {
 	left: 5px;
 }
 
-nav {
+.nav {
 	display: inline-block;
 	text-align: center;
 	vertical-align: middle;
@@ -56,20 +56,20 @@ a:active {
 }
 
 
-h1 {
+.h1 {
 	text-align: center;
 	font-weight:bold;
 	color: #712177;
 	font-size: 70px
 }
 
-h2 {
+.h2 {
 	color: #712177;
 	font-size: 40px;
 	font-weight:bold;	
 }
 
-p {
+.p {
 	text-align: center;
 	font-size: 25px;
 	
@@ -88,7 +88,7 @@ p {
 		
 }
 
-footer {
+.footer {
     	position:relative;
     	left: 0;
 	bottom: 0;
