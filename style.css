@@ -22,7 +22,8 @@
 	display: inline-block;
 	overflow: hidden;
 	position: absolute;
-	
+	top: 40px;
+	right: 10px;
 }
 
 .nav Home {
