@@ -25,21 +25,13 @@
 	padding: 5px;
 }
 
-.nav li {
-	text-decoration: none;
-	display: inline-block;
-	overflow: hidden;
-	margin: 5px;
-	padding: 5px;
-}
-
 .nav Home {
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
-	margin: 5px;
-	padding: 5px;
-	float: center;
+	margin: 20px;
+	padding: 10px;
+	float: right;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
@@ -51,9 +43,9 @@
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
-	margin: 5px;
-	padding: 5px;
-	float: center;
+	margin: 20px;
+	padding: 10px;
+	float: right;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
