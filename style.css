@@ -19,7 +19,7 @@
 .nav ul {
 	list-style-type: none;
 	text-decoration: none;
-	display: block;
+	display: inline-block;
 		
 }
 
@@ -28,15 +28,14 @@
 	top: 40px;
 	right: 10px;
 	text-decoration: none;
-	display: block;
 	margin: 20px;
 	padding: 10px;
 	float: right;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
 	font-weight:bold;
 	color: white;
-	font-size: 30px;
+	font-size: 25px;
 }
 
 a:link {
