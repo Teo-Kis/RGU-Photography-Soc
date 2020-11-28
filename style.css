@@ -17,7 +17,7 @@
 }
 
 
-.Home {
+.nav Home {
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
@@ -31,7 +31,7 @@
 	font-size: 30px;
 }
 
-.Socials {
+.nav Socials {
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
