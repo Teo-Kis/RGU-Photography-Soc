@@ -10,18 +10,18 @@ header {
   	font-size: 30px;
 }
 
+.RGU_logo {
+	position: left:;
+	top: 20px;
+	left: 5px;
+}
+
 nav {
 	display: inline-block;
 	text-align: center;
 	vertical-align: bottom;
 	color: white;
 	font-size: 30px;
-}
-
-img {
-	position: left:;
-	top: 20px;
-	left: 5px;
 }
 
 a:link {
@@ -74,7 +74,11 @@ p {
 	margin-top: 20px;
 }
 
-fb-post, twitter-timeline, intagram-media {
+.fb-like, twitter-follow-button {
+	display:inline-block;
+}
+
+.fb-post, twitter-timeline, intagram-media {
 	align:center:
 }
 
