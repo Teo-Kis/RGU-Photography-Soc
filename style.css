@@ -25,14 +25,11 @@
 	font-size: 30px;
 }
 
-.ul {
+.Home, Socials {
 	list-style-type: none;
 	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
-}
-
-.li {
 	display: inline;
 	float: left;
 }
