@@ -23,7 +23,7 @@
 	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
-	float: right;
+	float: left;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
@@ -37,7 +37,7 @@
 	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
-	float: right;
+	float: left;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
@@ -101,6 +101,9 @@ a:active {
 .fb-like, twitter-follow-button {
 	display:inline-block;
 	float: left;
+	overflow: hidden;
+	margin: 5px;
+	padding: 5px;
 }
 
 .fb-post, twitter-timeline, intagram-media {
