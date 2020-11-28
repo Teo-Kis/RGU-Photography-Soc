@@ -20,8 +20,8 @@
 	list-style-type: none;
 	text-decoration: none;
 	display: inline-block;
-	float: right;
-	position: relative;
+	float: left;
+	position: absolute;
 	top: 40px;
 	right: 10px;	
 }
@@ -34,8 +34,6 @@
 	float: left;
 	text-align: right;
 	vertical-align: middle;
-	top: 40px;
-	righ: 10px;
 	font-weight:bold;
 	color: white;
 	font-size: 25px;
