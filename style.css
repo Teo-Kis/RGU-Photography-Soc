@@ -31,9 +31,11 @@
 	text-decoration: none;
 	margin: 20px;
 	padding: 10px;
-	float: right;
+	float: left;
 	text-align: right;
 	vertical-align: middle;
+	top: 40px;
+	righ: 10px;
 	font-weight:bold;
 	color: white;
 	font-size: 25px;
