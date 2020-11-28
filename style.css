@@ -24,13 +24,21 @@
 	padding: 5px;
 }
 
+.nav li {
+	text-decoration: none;
+	display: inline-block;
+	overflow: hidden;
+	margin: 5px;
+	padding: 5px;
+}
+
 .nav Home {
 	text-decoration: none;
 	display: inline-block;
 	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
-	float: left;
+	float: center;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
@@ -44,7 +52,7 @@
 	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
-	float: left;
+	float: center;
 	text-align: center;
 	vertical-align: middle;
 	font-weight:bold;
