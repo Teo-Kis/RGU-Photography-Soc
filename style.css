@@ -20,13 +20,13 @@
 	list-style-type: none;
 	text-decoration: none;
 	display: inline-block;
-		
+	position: relative;
+	top: 40px;
+	right: 10px;	
 }
 
 .nav li {
-	position: relative;
-	top: 40px;
-	right: 10px;
+	
 	text-decoration: none;
 	margin: 20px;
 	padding: 10px;
@@ -93,7 +93,6 @@ a:active {
 .fb-like, twitter-follow-button {
 	display:inline-block;
 	float: left;
-	overflow: hidden;
 	margin: 5px;
 	padding: 5px;
 }
